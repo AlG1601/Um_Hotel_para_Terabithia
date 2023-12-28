@@ -5,45 +5,45 @@ Neste projeto, exploramos o conceito de desenvolvimento de software modular para
 
 ## Funções Principais
 
-1. **`saudacaoInicial(nomeHotel, nomeUsuario)`**
+1. Saudação Inicial
    - Pergunta o nome do Hotel e do usuário.
    - Exibe a mensagem de boas-vindas personalizada.
 
-2. **`loginUsuario()`**
+2. Login do Usuário()
    - Pergunta o nome do usuário e uma senha (2678).
 
-3. **`inicio()`**
+3. Início()
    - Utiliza escolha/caso (switch/case) para validar a opção escolhida pelo usuário.
    - Exibe mensagem personalizada ao acessar o sistema.
 
-4. **`sairSistema(nomeUsuario)`**
+4. Sair do Sistema
    - Exibe mensagem de despedida personalizada ao sair do sistema.
 
-5. **`quantidadeQuartos()`**
+5. Quantidade de Quartos
    - Programa para reservar quartos no hotel.
 
-6. **`cadastroHospede()`**
+6. Cadastro de Hóspede
    - Cadastra hóspedes como uma família que acaba de chegar ao balcão do hotel.
 
-7. **`cadastroPesquisaHospedes()`**
+7. Cadastro e Pesquisa de Hóspedes
    - Cadastra e pesquisa hóspedes de maneira diferente.
 
-8. **`custoGarcons()`**
+8. Custo com Garçons
    - Calcula o custo de garçons para eventos contratados.
 
-9. **`calcularBuffet(convidados)`**
+9. Calcular Buffet
    - Calcula a quantidade de café, água e salgados para eventos.
 
-10. **`auditórioMaisAdequado()`**
+10. Auditório Mais Adequado
     - Determina qual auditório é mais adequado para um evento.
 
-11. **`reservaRestaurante()`**
+11. Reserva de Restaurante
     - Oferece reservas no restaurante para eventos em horários específicos.
 
-12. **`postoCombustivel()`**
+12. Posto de Combustivel
     - Escolhe o posto de combustível mais em conta para abastecer o carro do hotel.
 
-13. **`manutencaoArCondicionado()`**
+13. Manutenção de Ar Condicionado
     - Gerencia a manutenção dos ar-condicionados e aproveita descontos em serviços.
 
 Lembre-se, cada função contribui para criar uma experiência extraordinária! 🚀🌟
